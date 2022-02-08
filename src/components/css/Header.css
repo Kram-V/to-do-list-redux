@@ -1,0 +1,20 @@
+.header-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav-links {
+  display: flex;
+  gap: 30px;
+}
+
+.nav-link {
+  list-style: none;
+}
+
+.link:link,
+.link:visited {
+  text-decoration: none;
+  color: gray;
+}

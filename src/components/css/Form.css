@@ -1,0 +1,21 @@
+.form-container {
+  height: 90vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form {
+  background-color: aquamarine;
+  width: 25%;
+  padding: 50px;
+}
+
+.input-field {
+  width: 97%;
+}
+
+.error-message {
+  color: #b91c1c;
+}
